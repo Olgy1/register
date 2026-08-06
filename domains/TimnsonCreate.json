@@ -1,0 +1,17 @@
+{
+  "title": "TimnsonCreate",
+  "description": "A short description of your website or server.",
+  "domain": "creepers.sbs",
+  "subdomain": "TimnsonCreate",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/susaxmedowa-png",
+    "email": "susaxmedowa@gmail.com",
+    "discord": "optional"
+  },
+  "record": {
+    "CNAME": ["cac0f3e63a98dfed4a4c5b21f2ec87d5.ipv4.tcpshield.com"]
+  },
+  "proxy": "false"
+}
+ 
