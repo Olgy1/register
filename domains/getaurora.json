@@ -1,0 +1,15 @@
+{
+  "title": "project aurora",
+  "description": "just a website ehehehehe",
+  "domain": "creepers.lol",
+  "subdomain": "getaurora",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/Pope12042",
+    "email": "Pope12042.th@gmail.com"
+  },
+  "record": {
+    "CNAME": "Pope12042.github.io"
+  },
+  "proxy": "false"
+}
