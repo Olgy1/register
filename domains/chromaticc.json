@@ -1,0 +1,16 @@
+{
+    "title": "Chromaticc",
+    "description": "Free open‑source profile builder with full customization.",
+    "domain": "creepers.lol",
+    "subdomain": "chromaticc",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/Chrxmaticc",
+        "email": "chrxmaticc@proton.me",
+        "discord": "chrxmeelst"
+    },
+    "record": {
+        "NS": ["ns1.vercel-dns.com", "ns2.vercel-dns.com"]
+    },
+    "proxy": "false"
+}
