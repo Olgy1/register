@@ -1,0 +1,17 @@
+{
+  "title": "Astra",
+  "description": "Short link used in bios, redirecting to the main site hosted on Vercel.",
+  "domain": "creepers.lol",
+  "subdomain": "astra",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/Olgy1",
+    "email": "gls.kyle@icloud.com"
+  },
+  "record": {
+    "A": [
+      "216.198.79.1"
+    ]
+  },
+  "proxy": "false"
+}
