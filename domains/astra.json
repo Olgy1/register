@@ -1,0 +1,20 @@
+{
+  "title": "Astra",
+  "description": "Short link used in bios, redirecting to the main site hosted on Vercel.",
+  "domain": "creepers.lol",
+  "subdomain": "astra",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/Olgy1",
+    "email": "gls.kyle@icloud.com"
+  },
+  "record": {
+    "spare_record": [
+      "TXT",
+      "_vercel",
+      "vc-domain-verify=astra.creepers.lol,4846ab6f85895be39876"
+    ],
+    "CNAME": "c43aedc1d8c42622.vercel-dns-017.com"
+  },
+  "proxy": "false"
+}
