@@ -1,0 +1,17 @@
+{
+  "title": "Astra Vercel verification (temporary)",
+  "description": "TXT record required by Vercel to verify ownership of astra.creepers.lol (domain linked to another Vercel account). Temporary - can be removed after verification completes.",
+  "domain": "creepers.lol",
+  "subdomain": "_vercel",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/Olgy1",
+    "email": "gls.kyle@icloud.com"
+  },
+  "record": {
+    "TXT": [
+      "vc-domain-verify=astra.creepers.lol,4846ab6f85895be39876"
+    ]
+  },
+  "proxy": "false"
+}
